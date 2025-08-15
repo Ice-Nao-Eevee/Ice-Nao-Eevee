@@ -2,7 +2,7 @@
 {
   "name": "Demas Banyu Biru",
   "location": "Indonesia",
-  "Personality": "Highly Introverted and Anxious",
+  "personality": "Highly Introverted and Anxious",
 }
 
 {
