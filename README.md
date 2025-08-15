@@ -6,7 +6,7 @@
 }
 
 {
-  "languages": ["HTML", "CSS", "JavaScript"],
-  "frameworks": ["React", "Svelte"],
+  "languages": ["HTML", " CSS", "JavaScript"],
+  "frameworks": ["React", "Tailwind CSS "Svelte"],
   "tools": ["VS Code", "GitHub"]
 }
