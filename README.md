@@ -15,5 +15,5 @@
  "Pokemon name": "Naovee Nauveon Emoly",
  "comment": "Kalian Bisa Memanggilku Naovee",
  "Type": "Glaceon",
- "favourite words": "Evoii",
+ "favourite word": "Evoii",
 }
