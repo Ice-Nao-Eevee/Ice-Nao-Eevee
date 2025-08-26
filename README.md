@@ -11,7 +11,9 @@
   "tools": ["VS Code", "GitHub"]
 }
 
-// Kalian Bisa Memanggilku Naovee
-{"Pokemon name": "Naovee Nauveon Emoly",
+{
+ "Pokemon name": "Naovee Nauveon Emoly",
+ "comment": "Kalian Bisa Memanggilku Naovee",
  "Type": "Glaceon",
+ "favourite words": "Evoii",
 }
