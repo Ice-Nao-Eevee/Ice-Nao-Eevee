@@ -11,6 +11,7 @@
   "tools": ["VS Code", "GitHub"]
 }
 
-{"Pokemon name": "Naovee Nauveon Emoly", // Kalian Bisa Memanggilku Naovee
+// Kalian Bisa Memanggilku Naovee
+{"Pokemon name": "Naovee Nauveon Emoly",
  "Type": "Glaceon",
 }
