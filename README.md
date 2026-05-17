@@ -1,13 +1,13 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=4fc3f7&height=200&section=header&text=Glaceon%20Naovee&fontSize=50&fontColor=b3e5fc&fontAlignY=38&desc=Ice-Nao-Eevee%20%7C%20he%2Fhim&descSize=18&descColor=81d4fa&descAlignY=58&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=4fc3f7&height=200&section=header&text=Glaceon%20Naovee&fontSize=50&fontColor=b3e5fc&fontAlignY=38&desc=...+...+...&descSize=18&descColor=81d4fa&descAlignY=58&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Hello..+Nice+to+meet+you..+%F0%9F%90%BE;I+like+doing+experiments+and+learning+something+new.;You+can+call+me+%22Naovee+Nauveon+Emoly%22+and+%22Naovee%22+for+short.+%E2%9D%84%EF%B8%8F;Favourite+word%3A+%22Evoii%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Hello..+Nice+to+meet+you..;I+like+doing+experiments+and+learning+something+new.;You+can+call+me+%22Naovee+Nauveon+Emoly%22+and+%22Naovee%22+for+short.+%E2%9D%84%EF%B8%8F;Favourite+word%3A+%22Evoii%22" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -31,42 +31,28 @@
 ```json
 {
   "pokemon_name": "Naovee Nauveon Emoly",
-  "comment": "Kalian Bisa Memanggilku Naovee",
+  "comment": "You can call me Naovee",
   "type": "Glaceon",
   "favourite_word": "Evoii"
 }
 ```
-
-## 💻 `stack.json`
-
-```json
-{
-  "languages": ["HTML", "CSS", "JavaScript"],
-  "frameworks": ["React", "Tailwind CSS", "Svelte"],
-  "tools": ["VS Code", "GitHub"]
-}
-```
-
----
 
 ## ❄️ Tech Stack
 
 <!-- Sesuaikan icon badge di bawah ini sesuai icon logo yang kamu punya -->
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-4A4A55?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F03030?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+[![HTML](https://skillicons.dev/icons?i=html,css,js,react,laravel,svelte,figma,unity,github,blender,vscode,visualstudio,mongodb,py,tailwind)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 💻 AI Tools
+
+<div align="center">
+  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-363636?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4659BD?style=for-the-badge&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-533BFF?style=for-the-badge&logo=github&logoColor=white) ![Stitch](https://img.shields.io/badge/Stitch-280087?style=for-the-badge&logo=stitcher&logoColor=white)
 
 </div>
 
