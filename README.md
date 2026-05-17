@@ -1,16 +1,13 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=4fc3f7&height=200&section=header&text=Glaceon%20Naovee&fontSize=50&fontColor=b3e5fc&fontAlignY=38&desc=...+...+...&descSize=18&descColor=81d4fa&descAlignY=58&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:0d1117,50:0059FF,0:0d1117&height=80&section=footer" width="100%"/>
+    <img src="https://raw.githubusercontent.com/Ice-Nao-Eevee/Ice-Nao-Eevee/main/assets/banner.png" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0059FF,100:0d1117&height=80&section=header" width="100%"/>
 </div>
-
-<br/>
-
 <!-- Typing animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Hello..+Nice+to+meet+you..;I+like+doing+experiments+and+learning+something+new.;You+can+call+me+%22Naovee+Nauveon+Emoly%22+and+%22Naovee%22+for+short.+%E2%9D%84%EF%B8%8F;Favourite+word%3A+%22Evoii%22" alt="Typing SVG" />
 </div>
-
-<br/>
 
 ---
 
